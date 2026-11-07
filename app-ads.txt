@@ -1,0 +1,9 @@
+# Fichier demandé par AdMob pour vérifier que l'application t'appartient.
+# À mettre en ligne à la RACINE du site indiqué dans la fiche Play Store :
+#   https://ludinova.github.io/app-ads.txt
+#
+# Remplace les 16 zéros par le numéro d'éditeur de ton compte AdMob : ce sont
+# les 16 chiffres de l'identifiant d'application, après « ca-app-pub- » et
+# avant le « ~ » (AdMob affiche aussi la ligne exacte dans Applications >
+# app-ads.txt). Ne change rien d'autre sur la ligne.
+google.com, pub-8879626431424137, DIRECT, f08c47fec0942fa0
